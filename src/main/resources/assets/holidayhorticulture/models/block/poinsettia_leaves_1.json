@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "holidayhorticulture:block/poinsettia_leaves_1"
+  }
+}

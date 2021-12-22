@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "holidayhorticulture:block/camellia_bottom"
+    },
+    "half=upper": {
+      "model": "holidayhorticulture:block/camellia_top"
+    }
+  }
+}

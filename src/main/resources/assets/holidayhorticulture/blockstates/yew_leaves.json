@@ -1,0 +1,8 @@
+{
+	"variants": {
+		
+		 "": [ { "model": "holidayhorticulture:block/yew_leaves_2" },{ "model": "holidayhorticulture:block/yew_leaves_1" },{ "model": "holidayhorticulture:block/yew_leaves" }]
+		
+		
+	}
+}

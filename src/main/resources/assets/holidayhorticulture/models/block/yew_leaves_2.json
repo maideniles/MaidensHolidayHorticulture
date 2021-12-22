@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "holidayhorticulture:block/yew_leaves_2"
+  }
+}

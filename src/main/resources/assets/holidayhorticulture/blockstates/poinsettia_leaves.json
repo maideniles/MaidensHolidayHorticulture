@@ -1,0 +1,15 @@
+{
+	"variants": {
+		
+		 "": [ { "model": "holidayhorticulture:block/poinsettia_leaves_3" }, 
+		 { "model": "holidayhorticulture:block/poinsettia_leaves_2" },
+		 { "model": "holidayhorticulture:block/poinsettia_leaves_1" },
+		 { "model": "holidayhorticulture:block/poinsettia_leaves" },
+		 { "model": "holidayhorticulture:block/poinsettia_leaves" },
+		 { "model": "holidayhorticulture:block/poinsettia_leaves" },
+		 { "model": "holidayhorticulture:block/poinsettia_leaves" },
+		 { "model": "holidayhorticulture:block/poinsettia_leaves" }]
+		
+		
+	}
+}
