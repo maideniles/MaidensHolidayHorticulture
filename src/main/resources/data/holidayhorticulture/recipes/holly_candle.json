@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "SGS",
+    "SCS"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:candle"
+    },
+	"S": {
+      "item": "holidayhorticulture:holly_sprig"
+    },
+	"G": {
+      "item": "minecraft:white_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "holidayhorticulture:holly_candle"
+  }
+}

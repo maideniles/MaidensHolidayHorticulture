@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "holidayhorticulture:block/holly_full",
+		"particle": "holidayhorticulture:block/holly_full"
+	},
+	"elements": [
+		{
+			"from": [2.5, 4, 2.25],
+			"to": [13.5, 14, 2.25],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 9, 2.25]},
+			"faces": {
+				"north": {"uv": [13, 3, 2, 13], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 10], "texture": "#0"},
+				"south": {"uv": [2, 3, 13, 13], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 10], "texture": "#0"},
+				"up": {"uv": [0, 0, 11, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 11, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.5, 4, 2.25],
+			"to": [13.5, 14, 2.25],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 9, 2.25]},
+			"faces": {
+				"north": {"uv": [13, 3, 2, 13], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 10], "texture": "#0"},
+				"south": {"uv": [2, 3, 13, 13], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 10], "texture": "#0"},
+				"up": {"uv": [0, 0, 11, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 11, 0], "texture": "#0"}
+			}
+		}
+	]
+}

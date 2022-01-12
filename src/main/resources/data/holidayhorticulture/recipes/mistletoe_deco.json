@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "minecraft:red_dye"
+		},
+		
+		{
+			"item": "minecraft:string"
+		},
+			
+				
+		{
+			"item": "holidayhorticulture:mistletoe_ball"
+		}
+		
+		
+	],
+	"result": {
+		"item": "holidayhorticulture:mistletoe_deco",
+		"count": 1
+	}
+}

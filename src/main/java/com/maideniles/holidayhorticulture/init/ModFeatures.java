@@ -140,14 +140,14 @@ public class ModFeatures {
     private static TreeConfiguration.TreeConfigurationBuilder createMistletoeOak() {
         return (new TreeConfiguration.TreeConfigurationBuilder(BlockStateProvider.simple(Blocks.OAK_LOG),
                 new FancyTrunkPlacer(3, 11, 0), new WeightedStateProvider(SimpleWeightedRandomList.<BlockState>builder()
-              .add(ModBlocks.MISTLETOE.get().defaultBlockState(), 1).add(Blocks.OAK_LEAVES.defaultBlockState(),3)),
+              .add(ModBlocks.MISTLETOE_OAK_LEAVES.get().defaultBlockState(), 1).add(Blocks.OAK_LEAVES.defaultBlockState(),3)),
                 new FancyFoliagePlacer(ConstantInt.of(2), ConstantInt.of(4), 4),
                 new TwoLayersFeatureSize(0, 0, 0, OptionalInt.of(4)))).ignoreVines();
     }
     private static TreeConfiguration.TreeConfigurationBuilder createMistletoeBirch() {
         return (new TreeConfiguration.TreeConfigurationBuilder(BlockStateProvider.simple(Blocks.BIRCH_LOG),
                 new FancyTrunkPlacer(3, 11, 0), new WeightedStateProvider(SimpleWeightedRandomList.<BlockState>builder()
-                .add(ModBlocks.MISTLETOE.get().defaultBlockState(), 1).add(Blocks.BIRCH_LEAVES.defaultBlockState(),3)),
+                .add(ModBlocks.MISTLETOE_BIRCH_LEAVES.get().defaultBlockState(), 1).add(Blocks.BIRCH_LEAVES.defaultBlockState(),3)),
                 new FancyFoliagePlacer(ConstantInt.of(2), ConstantInt.of(4), 4),
                 new TwoLayersFeatureSize(0, 0, 0, OptionalInt.of(4)))).ignoreVines();
     }

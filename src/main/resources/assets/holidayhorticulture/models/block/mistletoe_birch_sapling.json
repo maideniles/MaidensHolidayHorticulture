@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "holidayhorticulture:block/mistletoe_birch_sapling"
+  }
+}

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		
+		
+		{
+			"item": "minecraft:lantern"
+		},
+			
+				
+		{
+			"item": "holidayhorticulture:holly_sprig"
+		}
+		
+		
+	],
+	"result": {
+		"item": "holidayhorticulture:holly_lantern",
+		"count": 1
+	}
+}

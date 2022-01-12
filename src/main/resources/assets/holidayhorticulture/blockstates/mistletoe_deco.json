@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "holidayhorticulture:block/mistletoe_deco"
+    },
+    "hanging=true": {
+      "model": "holidayhorticulture:block/mistletoe_hanging"
+    }
+  }
+}

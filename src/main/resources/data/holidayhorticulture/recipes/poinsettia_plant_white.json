@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+				
+		{
+			"item": "holidayhorticulture:poinsettia_white_leaves"
+		}
+		
+		
+	],
+	"result": {
+		"item": "holidayhorticulture:poinsettia_plant_white",
+		"count": 1
+	}
+}

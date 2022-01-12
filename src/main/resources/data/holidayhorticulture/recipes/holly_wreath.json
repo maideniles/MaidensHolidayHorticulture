@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "H H",
+    "HCH"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:red_carpet"
+    },
+	"H": {
+      "item": "holidayhorticulture:holly_sprig"
+    }
+	
+  },
+  "result": {
+    "item": "holidayhorticulture:holly_wreath"
+  }
+}

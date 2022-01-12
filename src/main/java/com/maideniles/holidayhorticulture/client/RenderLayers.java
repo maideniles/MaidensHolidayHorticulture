@@ -39,6 +39,20 @@ public class RenderLayers {
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.YEW_LEAVES.get(), RenderType.cutoutMipped());
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.POINSETTIA_LEAVES.get(), RenderType.cutoutMipped());
         ItemBlockRenderTypes.setRenderLayer(ModBlocks.POINSETTIA_WHITE_LEAVES.get(), RenderType.cutoutMipped());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.HOLLY_LANTERN.get(), RenderType.cutoutMipped());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.MISTLETOE_DECO.get(), RenderType.cutoutMipped());
+
+
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.HOLLY_CANDLE.get(), (layer) -> layer == RenderType.cutoutMipped() || layer == RenderType.translucent());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.HOLLY_CANDLE_LIT.get(), (layer) -> layer == RenderType.cutoutMipped() || layer == RenderType.translucent());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.HOLLY_WREATH.get(), RenderType.cutoutMipped());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.HOLLY_SPRIG.get(), RenderType.cutoutMipped());
+
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.MISTLETOE_OAK_LEAVES.get(), RenderType.cutoutMipped());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.MISTLETOE_BIRCH_LEAVES.get(), RenderType.cutoutMipped());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.MISTLETOE_OAK_SAPLING.get(), RenderType.cutoutMipped());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.MISTLETOE_BIRCH_SAPLING.get(), RenderType.cutoutMipped());
+        ItemBlockRenderTypes.setRenderLayer(ModBlocks.YEW_SAPLING.get(), RenderType.cutoutMipped());
     }
 
     public static void safeRunClient() {

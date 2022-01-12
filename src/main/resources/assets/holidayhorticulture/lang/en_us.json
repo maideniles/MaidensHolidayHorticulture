@@ -1,0 +1,65 @@
+{
+
+"itemGroup.hh_group": "Holiday Horticulture Tab",
+
+
+"item.holidayhorticulture.mistletoe_ball": "Ball of Mistletoe",
+	
+	"block.holidayhorticulture.christmas_cactus": "Christmas Cactus",
+	"block.holidayhorticulture.poinsettia_plant": "Red Poinsettia Plant",
+	"block.holidayhorticulture.poinsettia_plant_white": "White Poinsettia Plant",
+	"block.holidayhorticulture.amaryllis": "Amaryllis",
+	"block.holidayhorticulture.christmas_rose": "Christmas Rose",
+	"block.holidayhorticulture.winterberry": "Winterberry",
+	"block.holidayhorticulture.camellia": "Yuletide Camellia",
+	"block.holidayhorticulture.wintergreen": "Wintergreen",
+	"block.holidayhorticulture.snowdrop": "Snowdrop",
+	"block.holidayhorticulture.paperwhite": "Paperwhite",
+	
+	"block.holidayhorticulture.christmas_cactus_potted": "Potted Christmas Cactus",
+	"block.holidayhorticulture.poinsettia_pottedplant": "Potted Red Poinsettia Plant",
+	"block.holidayhorticulture.poinsettia_pottedplant_white": "Potted White Poinsettia Plant",
+	"block.holidayhorticulture.amaryllis_potted": "Potted Amaryllis",
+	"block.holidayhorticulture.christmas_rose_potted": "Potted Christmas Rose",
+	"block.holidayhorticulture.winterberry_potted": "Potted Winterberry",
+	"block.holidayhorticulture.camellia_potted": "Potted Yuletide Camellia",
+	"block.holidayhorticulture.wintergreen_potted": "Potted Wintergreen",
+	"block.holidayhorticulture.snowdrop_potted": "Potted Snowdrop",
+	"block.holidayhorticulture.paperwhite_potted": "Potted Paperwhite",
+	
+	"block.holidayhorticulture.mistletoe_oak_leaves": "Mistletoe-Infested Oak Leaves",
+	"block.holidayhorticulture.mistletoe_birch_leaves": "Mistletoe-Infested Birch Leaves",
+	"block.holidayhorticulture.yew_leaves": "Yew Leaves",
+	"block.holidayhorticulture.poinsettia_leaves": "Red Poinsettia Leaves",
+	"block.holidayhorticulture.poinsettia_white_leaves": "White Poinsettia Leaves",
+	
+	"block.holidayhorticulture.holly_wreath": "Holly Wreath",
+	"block.holidayhorticulture.holly_lantern": "Holly-Decorated Lantern",
+	"block.holidayhorticulture.holly_candle": "Holly-Decorated Candle",
+	"block.holidayhorticulture.holly_candle_lit": "Lit Holly-Decorated Candle",
+	"block.holidayhorticulture.mistletoe_deco": "Mistletoe Decoration",
+	"block.holidayhorticulture.holly_sprig": "Sprig of Holly",
+	
+	"block.holidayhorticulture.mistletoe_oak_sapling": "Mistletoe-Infested Oak Sapling",
+	"block.holidayhorticulture.mistletoe_birch_sapling": "Mistletoe-Infested Birch Sapling",
+	"block.holidayhorticulture.yew_sapling": "Yew Sapling"
+	
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+
+}

@@ -7,18 +7,13 @@ import net.minecraft.world.level.block.Blocks;
 
 public class ModTabs {
 
-    public static final CreativeModeTab MAIDENS_BLOCKS_GROUP = new CreativeModeTab("maidens_blocks_group") {
+    public static final CreativeModeTab HH_GROUP = new CreativeModeTab("hh_group") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(Blocks.SPORE_BLOSSOM);
+            return new ItemStack(ModBlocks.AMARYLLIS.get());
         }
     };
 
-    public static final CreativeModeTab MAIDENS_ITEMS_GROUP = new CreativeModeTab("maidens_items_group") {
-        @Override
-        public ItemStack makeIcon() {
-            return new ItemStack(Items.BONE_MEAL);
-        }
-    };
+
 
 }
